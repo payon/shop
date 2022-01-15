@@ -88,6 +88,7 @@
       "themeColor": "#05386b"
     },
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "publishChangesOnly": true,
     "uniqCompNum": 0,
     "versionPublish": "5.5.8"
   },
